@@ -1,26 +1,26 @@
 {
-  "name": "Fatih Yavuz",
-  "description": "Software Engineer @Spotify",
-  "image_url": "https://pbs.twimg.com/profile_images/1593630240961662979/hDHYl9MP_400x400.jpg",
+  "name": "Onur Şuyalçınkaya",
+  "description": "Frontend Software Engineer @ heycar",
+  "image_url": "https://pbs.twimg.com/profile_images/1601239587719979011/E-kvncKx_400x400.jpg",
   "links": [
     {
-      "title": "LinkedIn",
-      "url": "https://linkedin.com/in/fyvz",
-      "icon": "linkedin"
-    },
-    {
       "title": "GitHub",
-      "url": "https://github.com/fatih-yavuz",
+      "url": "https://github.com/suyalcinkaya",
       "icon": "github"
     },
     {
+      "title": "LinkedIn",
+      "url": "https://linkedin.com/in/suyalcinkaya/",
+      "icon": "linkedin"
+    },
+    {
       "title": "Twitter",
-      "url": "https://twitter.com/fthdev",
+      "url": "https://twitter.com/onurschu",
       "icon": "twitter"
     },
     {
       "title": "Instagram",
-      "url": "https://instagram.com/pusuknane",
+      "url": "https://instagram.com/jgrmn/",
       "icon": "instagram"
     }
   ]
